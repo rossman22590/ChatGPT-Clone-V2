@@ -6,7 +6,7 @@ import { getFirestore } from 'firebase/firestore'
 const firebaseConfig = {
   apiKey: "AIzaSyCOZmc5smb_g_92s8p_4nyQcHyoj0zb5qw",
   authDomain: "project-218641915774.firebaseapp.com",
-  projectId: "project-218641915774",
+  projectId: "gpt-copy",
   storageBucket: "project-218641915774.appspot.com",
   messagingSenderId: "218641915774",
   appId: "1:218641915774:web:6d9eb09f16100037b41d2f",
