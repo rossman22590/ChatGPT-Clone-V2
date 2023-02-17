@@ -4,12 +4,12 @@ import { getFirestore } from 'firebase/firestore'
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDIHu44aJy4h4PJtxMG-vFZg-al7T1JRsM",
-  authDomain: "chatgpt-84d8f.firebaseapp.com",
-  projectId: "chatgpt-84d8f",
-  storageBucket: "chatgpt-84d8f.appspot.com",
-  messagingSenderId: "328919260204",
-  appId: "1:328919260204:web:59dcc812e3cfebb3738589",
+  apiKey: "AIzaSyCOZmc5smb_g_92s8p_4nyQcHyoj0zb5qw",
+  authDomain: "project-218641915774.firebaseapp.com",
+  projectId: "project-218641915774",
+  storageBucket: "project-218641915774.appspot.com",
+  messagingSenderId: "218641915774",
+  appId: "1:218641915774:web:6d9eb09f16100037b41d2f",
   measurementId: "G-B5BSGEX2HJ"
 };
 
